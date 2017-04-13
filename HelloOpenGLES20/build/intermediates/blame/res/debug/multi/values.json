@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\OpenGLSample\\HelloOpenGLES20\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\OpenGLSample\\HelloOpenGLES20\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 56,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 55,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "E:\\OpenGLSample\\HelloOpenGLES20\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 55,
+                        "endOffset": 733
+                    }
+                }
+            }
+        ]
+    }
+]
